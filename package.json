@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ZakyZak/js-2023-env-setup/issues"
   },
-  "homepage": "https://github.com/ZakyZak/js-2023-env-setup#readme"
+  "homepage": "https://github.com/ZakyZak/js-2023-env-setup#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
